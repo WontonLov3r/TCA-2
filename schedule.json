@@ -1,0 +1,22 @@
+{
+    "schedule":[
+        {
+            "day" :["Monday", "Tuesday", "Friday"],
+            "class_name" : "Cyber Security",
+            "room_number" : "E202",
+            "teacher_name" : "Mrs.Rehwinkel"
+        }, 
+    ]
+    {
+        "day" :["Tuesday", "Wednesday", "Thursday"],
+        "class_name" : "Biology",
+        "room_number" : "D201",
+        "teacher_name" : "Mrs.Tsakiris"
+    }, 
+    {
+        "day" :["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "class_name" : "Web Design",
+        "room_number" : "B101",
+        "teacher_name" : "Mrs.Leonard"
+    }
+}
